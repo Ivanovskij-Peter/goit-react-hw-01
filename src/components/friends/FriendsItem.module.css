@@ -1,0 +1,25 @@
+.item {
+  margin-bottom: 5px;
+  list-style: none;
+  border: 2px solid greenyellow;
+  width: 150px;
+  height: auto;
+  display: flex;
+  align-items: center;
+}
+.stats {
+  list-style: none;
+}
+.option {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+}
+.red {
+  composes: option;
+  background-color: red;
+}
+.green {
+  composes: option;
+  background-color: green;
+}

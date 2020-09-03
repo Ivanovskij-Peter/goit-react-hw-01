@@ -1,18 +1,14 @@
 import React from "react";
-// import PropTypes from "prop-types";
+import styles from "./userItem.module.css";
 function UserItem({ user: { name, tag, location, avatar } }) {
   return (
-    <div className="profile">
-      <img className="avatar" src={avatar} alt="avatar"></img>
-      <h2 className="name">{name}</h2>
-      <p className="location">{location}</p>
-      <p className="tag">{tag}</p>
+    <div>
+      <img className={styles.avatar} src={avatar} alt="avatar"></img>
+      <h2 className={styles.name}>{name}</h2>
+      <p className={styles.location}>{location}</p>
+      <p className={styles.tag}>{tag}</p>
     </div>
   );
 }
-
-// UserItem.PropTypes = {
-//   name: PropTypes.string.isRequired,
-// };
 
 export default UserItem;

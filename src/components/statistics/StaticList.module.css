@@ -1,0 +1,15 @@
+.statistics {
+  display: block;
+  width: 250px;
+  margin: 0 auto;
+  border: 1px solid silver;
+}
+.title {
+  text-align: center;
+}
+.statlist {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}

@@ -1,0 +1,10 @@
+.title {
+  background-color: paleturquoise;
+}
+.transactionhistory {
+  width: 400px;
+  border: 1px solid black;
+}
+.type {
+  padding: 5px;
+}
