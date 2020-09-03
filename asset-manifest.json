@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-01/static/css/main.0014ac64.chunk.css",
+    "main.js": "/goit-react-hw-01/static/js/main.9e39b6da.chunk.js",
+    "main.js.map": "/goit-react-hw-01/static/js/main.9e39b6da.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-01/static/js/runtime-main.064837fa.js",
+    "runtime-main.js.map": "/goit-react-hw-01/static/js/runtime-main.064837fa.js.map",
+    "static/js/2.6dc0cd31.chunk.js": "/goit-react-hw-01/static/js/2.6dc0cd31.chunk.js",
+    "static/js/2.6dc0cd31.chunk.js.map": "/goit-react-hw-01/static/js/2.6dc0cd31.chunk.js.map",
+    "index.html": "/goit-react-hw-01/index.html",
+    "precache-manifest.bee7c1c238243d2f1394ec0af4258bc3.js": "/goit-react-hw-01/precache-manifest.bee7c1c238243d2f1394ec0af4258bc3.js",
+    "service-worker.js": "/goit-react-hw-01/service-worker.js",
+    "static/css/main.0014ac64.chunk.css.map": "/goit-react-hw-01/static/css/main.0014ac64.chunk.css.map",
+    "static/js/2.6dc0cd31.chunk.js.LICENSE.txt": "/goit-react-hw-01/static/js/2.6dc0cd31.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.064837fa.js",
+    "static/js/2.6dc0cd31.chunk.js",
+    "static/css/main.0014ac64.chunk.css",
+    "static/js/main.9e39b6da.chunk.js"
+  ]
+}
